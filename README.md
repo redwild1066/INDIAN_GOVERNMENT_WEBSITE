@@ -6,19 +6,19 @@
 India is a Sovereign Socialist Secular Democratic Republic with a Parliamentary form of government which is federal in structure with unitary features. There is a Council of Ministers with the Prime Minster as its head to advice the President who is the constitutional head of the country. . <br><br><br>
 
 
-### The word Web Development is made up of two words, that is: <br>
+## The word Web Development is made up of two words, that is: <br>
 
 Web: It refers to websites, web pages or anything that works over the internet.<br>
 Development: It refers to building the application from scratch. <br><br><br>
 
 
-#### Web Development can be classified into two ways:
+## Web Development can be classified into two ways:
 
 Frontend Development<br>
 Backend Development<br><br>
 
 
-#### Frontend Development
+### Frontend Development
 The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.<br><br>
 
 #### Frontend Roadmap:Frontend Development Roadmap<br>
@@ -33,14 +33,14 @@ Bootstrap 5</p> <br><br>
 
 This is My Frontend Project <br><br>
 
-### Functional Operations : 
+## Functional Operations : 
 Browser Extension
 App-based interface
 Public Dashboard displaying usage statistics of the solution
 
 
 
-### Output :
+## Output :
 
 ![1](https://user-images.githubusercontent.com/74112721/206871548-a9732014-619d-4dc7-af05-562519f8213a.png)
 ![2](https://user-images.githubusercontent.com/74112721/206871556-7140d9c4-63f7-466a-9d31-a1d439fb44cc.png)
